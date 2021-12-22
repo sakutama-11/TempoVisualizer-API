@@ -1,0 +1,4 @@
+soundfile 
+librosa
+boto3
+opencv-python 
